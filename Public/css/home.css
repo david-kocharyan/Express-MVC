@@ -1,0 +1,14 @@
+.welcome{
+    text-align: center;
+    font-size: 60px !important;
+    letter-spacing: 20px;
+}
+.main{
+    margin: 0 auto;
+    margin-top: 20%;
+}
+.link{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 30px;
+}
